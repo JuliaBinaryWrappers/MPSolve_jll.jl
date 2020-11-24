@@ -1,0 +1,236 @@
+[[MPSolve]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "651ce047c5dd3891076e94a4ca90724d70c99d2b"
+libc = "glibc"
+os = "linux"
+
+    [[MPSolve.download]]
+    sha256 = "bdaa41478bf5b4f6a1b134b4506c0facb55d1dc1d748ebd350406a389a1d53e0"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[MPSolve]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "38327fd676890455a7cc96f9e157ff70dbb8fb38"
+libc = "glibc"
+os = "linux"
+
+    [[MPSolve.download]]
+    sha256 = "05369ac815adf25831a35ac1ac8d9d1047cbf274e8ec7854a17d206a3ede1d60"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[MPSolve]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b374e0471fb8ac103cd9c6b10a9f1e6740b9e013"
+libc = "musl"
+os = "linux"
+
+    [[MPSolve.download]]
+    sha256 = "ca4fea1fae32c14ba2bb03607bf576109b70f4c7bbb04c807c22941383096192"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.aarch64-linux-musl-cxx03.tar.gz"
+[[MPSolve]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e4c9bc69be4260fe41c65c6a17f0149b5e2000d1"
+libc = "musl"
+os = "linux"
+
+    [[MPSolve.download]]
+    sha256 = "fde78bab2718173df9eb5dade31e083dc325adb1665bc19f5807c86dbee03947"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.aarch64-linux-musl-cxx11.tar.gz"
+[[MPSolve]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bb288dc7ab358facb5782580a691b6f9acca8f60"
+libc = "glibc"
+os = "linux"
+
+    [[MPSolve.download]]
+    sha256 = "d6ef0424fa95daf24ac6f7adabc684eb2461a3346b04acaa2d2e5bd3bf0e09c0"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[MPSolve]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bb579d27fe770f98ef30c8c80b6f8b4336eb18d4"
+libc = "glibc"
+os = "linux"
+
+    [[MPSolve.download]]
+    sha256 = "3c9091015e28225c2192209ac78b25ca099096b69e286fe42ec0e146c8d19c58"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[MPSolve]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7c46c4c5d1c4f2f29611107aa0d24bbb53afe7c1"
+libc = "musl"
+os = "linux"
+
+    [[MPSolve.download]]
+    sha256 = "1c027d79450063ea0c98c00f1357d1dc2776e34168a3cf499c4aa386c7c8e483"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[MPSolve]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "227841999550cd165f47de3a4ef59b671e1e6f11"
+libc = "musl"
+os = "linux"
+
+    [[MPSolve.download]]
+    sha256 = "80e110bad7daf265c50c40c01915e7bd3241620c6fce71cb02c8789b10ff6142"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[MPSolve]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fdb2eed402dda1f9d6431fec7a3a8e7e9967f997"
+libc = "glibc"
+os = "linux"
+
+    [[MPSolve.download]]
+    sha256 = "58e226d883a5a4966fe7cbd98e11f1833342fab4693dea919d41b1e2515a9ed0"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.i686-linux-gnu-cxx03.tar.gz"
+[[MPSolve]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "78878e3386d6f5b70defb0715475d85355aad36b"
+libc = "glibc"
+os = "linux"
+
+    [[MPSolve.download]]
+    sha256 = "01789d4e37b23a9557d4d4c623479e604bdee4c7a4a66c5ecafd3bbf0b1b2005"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.i686-linux-gnu-cxx11.tar.gz"
+[[MPSolve]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fc4674bffaa6d12f429a901e9550cd3c37e827ed"
+libc = "musl"
+os = "linux"
+
+    [[MPSolve.download]]
+    sha256 = "b5cef1f860b5bf588673948442614353c6df79f8f9ed64149f941351c555473f"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.i686-linux-musl-cxx03.tar.gz"
+[[MPSolve]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9dadd6443e1362aef3618afee7b5cefb4d98002c"
+libc = "musl"
+os = "linux"
+
+    [[MPSolve.download]]
+    sha256 = "f2c16b4abc5786bedda366e060dd87ebc4bdf8dbe8e698c60d47196bbd325a1f"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.i686-linux-musl-cxx11.tar.gz"
+[[MPSolve]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8ccc110954ccc464f20da5b987c71985a874e805"
+os = "windows"
+
+    [[MPSolve.download]]
+    sha256 = "999b25141a18830278dc11a947c466a4d39439de2bbe2cb764c898d4b35b1406"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.i686-w64-mingw32-cxx03.tar.gz"
+[[MPSolve]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "afc4e09ef3e82eef44ff1e001e4eaba798fb317f"
+os = "windows"
+
+    [[MPSolve.download]]
+    sha256 = "c6cbf05ee13d52ffbdf566bbf821dede4cd1eff8ff809fd851ea492518f69530"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.i686-w64-mingw32-cxx11.tar.gz"
+[[MPSolve]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e510641b394e37eaf688a986d174228453883851"
+libc = "glibc"
+os = "linux"
+
+    [[MPSolve.download]]
+    sha256 = "68ed1f6512ab61e91e8a238d71de4c47b4079a9bab8e302d87a12f6acb5dc372"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[MPSolve]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2040b2c22a987131ee4dfc9bf1d822ac22c2a59c"
+libc = "glibc"
+os = "linux"
+
+    [[MPSolve.download]]
+    sha256 = "a2e972f7502c9936620f16895d8ef927549d89c37b5b2300ba074768a9ea0675"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[MPSolve]]
+arch = "x86_64"
+git-tree-sha1 = "425914a76ac2e43b1ead550a5cf71d4fffdc59f8"
+os = "macos"
+
+    [[MPSolve.download]]
+    sha256 = "3a7a36f555f4c35f5b742aa55daa3956b10c855dc504531b621f162414f25a15"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.x86_64-apple-darwin.tar.gz"
+[[MPSolve]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a0cc0705bb6547bb2089e7f07205f2776a6130ab"
+libc = "glibc"
+os = "linux"
+
+    [[MPSolve.download]]
+    sha256 = "4a0bc56de1f075af6b8280a30867faf9db767f582c0b9be90dbf38382dea1549"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[MPSolve]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aaceb2efc5b4f9c47b80f8c2494303f35a5150f0"
+libc = "glibc"
+os = "linux"
+
+    [[MPSolve.download]]
+    sha256 = "906d35ab80b4d70688a41d4a33e83be267f5988b8ba13ec401a5049750ea70fc"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[MPSolve]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "16ad737a77c003621ac30ac330109b8e8303bb9a"
+libc = "musl"
+os = "linux"
+
+    [[MPSolve.download]]
+    sha256 = "a675f95f0e4a291e4518712c04ed9f6528fbe0ac3c09b2a805595cbffc56ba93"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.x86_64-linux-musl-cxx03.tar.gz"
+[[MPSolve]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ae0f77a91b8ab0e23803967b3a176881f9af2247"
+libc = "musl"
+os = "linux"
+
+    [[MPSolve.download]]
+    sha256 = "57e6b5bf0945dc33057f528299e5a84799ba8acdd6f3f7b96035a9dd0695c737"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.x86_64-linux-musl-cxx11.tar.gz"
+[[MPSolve]]
+arch = "x86_64"
+git-tree-sha1 = "75074d40a686a71d03236819c42d757598bc8c32"
+os = "freebsd"
+
+    [[MPSolve.download]]
+    sha256 = "cab67f31345b486049431037a0c8c1c7e80e2bc2fd4b8cf0294706045a9a5c8d"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.x86_64-unknown-freebsd.tar.gz"
+[[MPSolve]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b552049a83387e768fe7ee44303e3c9339ce126f"
+os = "windows"
+
+    [[MPSolve.download]]
+    sha256 = "a883c815eaa20f653b3def831e33acc9d92619f72977e9b0a51ca67ca5e95a7d"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[MPSolve]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f010782b979078d0f71b12e76b0217a01b1c7aff"
+os = "windows"
+
+    [[MPSolve.download]]
+    sha256 = "5f0330f5d2da760df0b18805a4044d526aff86e16be49e33b50b829ccec256aa"
+    url = "https://github.com/JuliaBinaryWrappers/MPSolve_jll.jl/releases/download/MPSolve-v3.2.1+0/MPSolve.v3.2.1.x86_64-w64-mingw32-cxx11.tar.gz"
